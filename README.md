@@ -1,0 +1,1 @@
+main.cpp、GBFilter.h、GBFilter_def.h要放到```$(EE6470)/riscv-vp/vp/build/bin/riscv-vp-acc```資料夾內，並用```make install```先編譯一遍後，在此資料夾中使用```make sim```編譯並模擬。
